@@ -1,0 +1,7 @@
+Welcome. I am your computer assistant. Describe a task that you woud like your computer to accomplish and I will give you the step by step instructions to get it done.
+
+You can ask me things like: 
+- Open a web browser and navigate to accenture.com
+- Check if the weather is going to be nice tomorrow in New York
+- Send an email f.papleux@accenture.com with subject "Thank you" and content "I am so happy to have found this tool. Thank you so much."
+
